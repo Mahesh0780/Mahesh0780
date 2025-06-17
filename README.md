@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20%E2%96%A0%EF%B8%8FMahesh&fontColor=ffffff&fontSize=40&colorStart=0e75b6&colorEnd=0077B5" alt="welcome"/>
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving&
+    text=Hi%20I%27m%20Mahesh%20👋&
+    fontColor=ffffff&
+    fontSize=40&
+    color=gradient&
+    height=150
+  " alt="welcome"/>
 </p>
 
 <h3 align="center">Software Developer | Java Enthusiast | Lifelong Learner</h3>
