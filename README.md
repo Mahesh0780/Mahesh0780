@@ -22,8 +22,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0780&show_icons=true&locale=en&layout=compact" alt="mahesh0780" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0780&show_icons=true&locale=en&layout=compact" alt="mahesh0780" /></p> 
+## 🏆 Contribution Stats
+![](https://img.shields.io/badge/Total_Contributions-384-2ea44f?style=flat-square)
+![](https://img.shields.io/badge/Current_Streak-23_days-2ea44f?style=flat-square)
+![](https://img.shields.io/badge/Longest_Streak-23_days-2ea44f?style=flat-square)  
+⁠ Oct 12, 2020 - Present ⁠ | ⁠ Streak: May 26 - Jun 17 ⁠
+
+---
+
+## 🔍 Featured Repository
+[![Complete Python 3 Bootcamp](https://img.shields.io/badge/🐍_Complete_Python_3_Bootcamp-Public-2ea44f?logo=python&logoColor=white)](https://github.com/yourusername/Complete-Python-3-Bootcamp)
+![](https://img.shields.io/badge/coding-100%25-blue?style=flat)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=github-dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&locale=en" alt="mahesh0780" /></p>
 
