@@ -39,11 +39,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <br />
-  <img src="https://streak-stats.demolab.com?user=mahesh0780&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mahesh0780&theme=github-dark&hide_border=true)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-384-2ea44f?style=flat-square"/>
