@@ -41,15 +41,17 @@
 ---
 
 ## 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=dark&count_private=true" alt="Mahesh's GitHub Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh0780&theme=github-dark&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Mahesh's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh0780&color=blue" alt="Profile Views"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mahesh0780&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahesh0780&theme=dark&hide_border=true" alt="Mahesh’s GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh0780&theme=github-dark&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
