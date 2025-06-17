@@ -1,43 +1,40 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&text=Hello%20🌟%20I%27m%20Mahesh&fontSize=48" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?
+    type=slice&
+    color=auto&
+    height=150&
+    section=header&
+    text=Software%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Lifelong%20Learner&
+    fontSize=36&
+    fontColor=ffffff
+  " alt="Hi, I'm Mahesh" />
 </p>
 
 ## ✨ Quote of the Day  
 <p align="center">
-  ![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=light&category=inspirational)
+  <picture>
+    <source srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Quote of the Day" />
+  </picture>
 </p>
 
 <h3 align="center">Software Developer | Java Enthusiast | Lifelong Learner</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=slice&
-    color=gradient&
-    height=150&
-    section=header&
-    text=Mahesh%20🚀%20SDE%20|%20Java%20Dev%20|%20Learner&
-    fontSize=32&
-    fontColor=000000
-  " alt="Mahesh - SDE" />
-</p>
 <p align="center"><em>"Eat 🍕 • Sleep 💤 • Code 💻 • Repeat 🔁"</em></p>
 
 ---
 
 ## 🧑‍💻 About Me  
-🎯 Passionate about building clean, scalable solutions in **Java**, Spring Boot, and REST APIs  
+🎯 Building clean & scalable backend systems with **Java**, Spring Boot, REST APIs  
 📫 Reach me at: [MaheshBaswaraj0780@outlook.com](mailto:MaheshBaswaraj0780@outlook.com)  
-🔗 Learn more: [LinkedIn](https://www.linkedin.com/in/maheshbaswaraj/)
+🔗 More about me on [LinkedIn](https://www.linkedin.com/in/maheshbaswaraj/)
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/maheshbaswaraj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/mahesh_baswaraj" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/maheshbaswaraj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/mahesh_baswaraj"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,7 +43,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -71,22 +67,21 @@
 ## 🚀 Featured Projects
 
 ### [Awesome Backend Microservice](https://github.com/mahesh0780/awesome-backend)  
-**📌 Stack:** Java • Spring Boot • MySQL • Docker • CI/CD  
-A production-grade microservice powering high-volume transactions with clean architecture and full containerization.
+**Java • Spring Boot • MySQL • Docker • CI/CD**  
+A production-ready microservice handling high-volume transactions—clean architecture, full containerization.
 
 ### [Algorithm Solver Toolkit](https://github.com/mahesh0780/algorithm-solver)  
-**📌 Stack:** Java • Public Test Suite • Optimized Data Structures  
-A curated set of high-performance DSA solutions with detailed explanations and benchmarks.
+**Java • DSA • Test Benchmarks**  
+Optimized data structure and algorithm solutions with benchmarks and clear explanations.
 
 ---
 
-## ✨ Highlights & Fun
-
-- 🧩 Lover of clean code, SOLID principles, and well-structured architecture  
-- ☕ Fueled by coffee, code, and continuous learning  
+## ✨ Highlights & Fun  
+- 🧩 SOLID principles & clean code advocate  
+- ☕ Coffee-fueled continuous learner  
 - 🎯 Active problem-solver on LeetCode  
-- 💡 I build personal tooling and automate workflows as a side project
+- 💡 I build personal tools & automation projects
 
 ---
 
-> ⚡ *Open to freelance, remote roles & collaborations. Let's build something great together!*
+> ⚡ *Open to freelance, remote roles & collaborations. Let’s build something great together!*
