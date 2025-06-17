@@ -37,7 +37,7 @@
 [![Complete Python 3 Bootcamp](https://img.shields.io/badge/🐍_Complete_Python_3_Bootcamp-Public-2ea44f?logo=python&logoColor=white)](https://github.com/yourusername/Complete-Python-3-Bootcamp)
 ![](https://img.shields.io/badge/coding-100%25-blue?style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahesh0780&theme=github-dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&locale=en" alt="mahesh0780" /></p>
 
