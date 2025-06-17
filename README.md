@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=waving&
-    color=auto&
-    height=150&
-    section=header&
-    text=Hi%20there!%20I%27m%20Mahesh%20👋&
-    fontSize=36&
-    fontColor=ffffff
-  " alt="Hi there! I'm Mahesh 👋" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=140&section=header&text=Hi%20there!%20I%27m%20Mahesh%20👋&fontSize=36&fontColor=ffffff" alt="Hi there! I'm Mahesh 👋" />
 </p>
 
 ## ✨ Quote of the Day  
