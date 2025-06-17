@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mahesh0780/mahesh0780/main/assets/banner.png" alt="Mahesh Banner" style="width:100%;"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20%E2%96%A0%EF%B8%8FMahesh&fontColor=ffffff&fontSize=40&colorStart=0e75b6&colorEnd=0077B5" alt="welcome"/>
 </p>
 
