@@ -1,82 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=140&section=header&text=Hi%20there!%20I%27m%20Mahesh%20👋&fontSize=36&fontColor=ffffff" alt="Hi there! I'm Mahesh 👋" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,%20I'm%20Mahesh!&fontSize=40&height=120&fontColor=ffffff" />
 </p>
 
-## ✨ Quote of the Day  
-...
-
-## ✨ Quote of the Day  
-<p align="center">
-  <picture>
-    <source srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Quote of the Day" />
-  </picture>
-</p>
-
-<h3 align="center">Software Developer | Java Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Software Developer · Java Enthusiast · Lifelong Learner</h3>
 <p align="center"><em>"Eat 🍕 • Sleep 💤 • Code 💻 • Repeat 🔁"</em></p>
 
 ---
 
-## 🧑‍💻 About Me  
-🎯 Building clean & scalable backend systems with **Java**, Spring Boot, REST APIs  
-📫 Reach me at: [MaheshBaswaraj0780@outlook.com](mailto:MaheshBaswaraj0780@outlook.com)  
-🔗 More about me on [LinkedIn](https://www.linkedin.com/in/maheshbaswaraj/)
+## 👋 About Me
+
+- 🔭 I build scalable backend systems with **Java**, **Spring Boot**, and **REST APIs**
+- 📬 Reach me at: [MaheshBaswaraj0780@outlook.com](mailto:MaheshBaswaraj0780@outlook.com)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/maheshbaswaraj/)
+- 🌱 Currently exploring: **Microservices**, **Docker**, **Kubernetes**
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/maheshbaswaraj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/mahesh_baswaraj"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+## 🛠 Tech Stack
 
----
-
-## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh0780&theme=github-dark&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh0780&color=blue" alt="Profile Views"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mahesh0780&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0780&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔍 Featured Projects
 
-### [Awesome Backend Microservice](https://github.com/mahesh0780/awesome-backend)  
-**Java • Spring Boot • MySQL • Docker • CI/CD**  
-A production-ready microservice handling high-volume transactions—clean architecture, full containerization.
+### 🚀 [Awesome Backend Microservice](https://github.com/mahesh0780/awesome-backend)
+Microservice architecture using Spring Boot, MySQL, and Docker. Designed for production with CI/CD and containerization.
 
-### [Algorithm Solver Toolkit](https://github.com/mahesh0780/algorithm-solver)  
-**Java • DSA • Test Benchmarks**  
-Optimized data structure and algorithm solutions with benchmarks and clear explanations.
+### 🧠 [Algorithm Solver Toolkit](https://github.com/mahesh0780/algorithm-solver)
+Clean Java solutions for DSA challenges. Optimized, benchmarked, and testable.
 
 ---
 
-## ✨ Highlights & Fun  
-- 🧩 SOLID principles & clean code advocate  
-- ☕ Coffee-fueled continuous learner  
-- 🎯 Active problem-solver on LeetCode  
-- 💡 I build personal tools & automation projects
+## ✨ Fun Bits
+
+- 💡 Minimalist by design, pragmatic by code
+- 🔁 Obsessed with code reusability and readability
+- 🎯 LeetCode enthusiast
+- ☕ Fueled by coffee and clean commits
 
 ---
 
-> ⚡ *Open to freelance, remote roles & collaborations. Let’s build something great together!*
+<p align="center"><b>Let’s collaborate and build something awesome!</b></p>
