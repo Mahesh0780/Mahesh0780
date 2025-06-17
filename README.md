@@ -38,7 +38,3 @@
 ![](https://img.shields.io/badge/coding-100%25-blue?style=flat)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahesh0780&theme=github-dark)](https://git.io/streak-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&locale=en" alt="mahesh0780" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0780&theme=github-dark&" alt="mahesh0780" /></p>
