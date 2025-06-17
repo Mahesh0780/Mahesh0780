@@ -1,36 +1,65 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<p align="center"><em>“Eat 🍕, Sleep 💤, Code 💻, Repeat 🔁”</em></p>
+<h3 align="center">A Passionate Software Developer from India</h3>
+<p align="center"><em>“Eat 🍕 Sleep 💤 Code 💻 Repeat 🔁”</em></p>
 
-<h2 align="center">About Me</h2>
-- 🔭 I am a software engineer specializing in **Java** with experience in Spring Boot and Hibernate.  
-- 📫 How to reach me: [mahesh@example.com](mailto:mahesh@example.com)  
-- 🌐 LinkedIn: [linkedin.com/in/mahesh](https://www.linkedin.com/in/mahesh)  
+---
 
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh) 
-  [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/mahesh)
-</p>
+## 🧑‍💻 About Me
 
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img alt="Java" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50" />
-  <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" />
-  <img alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png" width="50" />
-  <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" />
-  <img alt="MySQL" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" />
-</p>
+- 💬 Ask me about **Java**
+- 📫 How to reach me: **MaheshBaswaraj0780@outlook.com**
+- 💼 Know more: [LinkedIn](https://www.linkedin.com/in/maheshbaswaraj/)
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  [![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh&show_icons=true&theme=tokyonight)](https://github.com/Mahesh)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahesh&theme=tokyonight&hide_border=true)](https://github.com/Mahesh)
-</p>
+---
 
-<h2 align="center">Featured Repository</h2>
-<p align="center">
-  <a href="https://github.com/Mahesh/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh&repo=awesome-project&theme=tokyonight" alt="awesome-project" />
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/maheshbaswaraj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/mahesh_baswaraj" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahesh0780&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-384-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Current_Streak-23_days-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-23_days-2ea44f?style=flat-square"/>
+  <br/>
+  <sub>📅 Oct 12, 2020 – Present | 🔁 Streak: May 26 – Jun 17</sub>
+</p>
+
+---
+
+## 📌 Featured Repository
+
+[![Complete Python 3 Bootcamp](https://img.shields.io/badge/🐍_Complete_Python_3_Bootcamp-Public-2ea44f?logo=python&logoColor=white)](https://github.com/yourusername/Complete-Python-3-Bootcamp)
+<img src="https://img.shields.io/badge/coding-100%25-blue?style=flat"/>
+
+---
+
+> 💡 *Open to new opportunities, collaborations, and tech talks.*
