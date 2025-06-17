@@ -8,6 +8,17 @@
 </p>
 
 <h3 align="center">Software Developer | Java Enthusiast | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+    type=slice&
+    color=gradient&
+    height=150&
+    section=header&
+    text=Mahesh%20🚀%20SDE%20|%20Java%20Dev%20|%20Learner&
+    fontSize=32&
+    fontColor=000000
+  " alt="Mahesh - SDE" />
+</p>
 <p align="center"><em>"Eat 🍕 • Sleep 💤 • Code 💻 • Repeat 🔁"</em></p>
 
 ---
