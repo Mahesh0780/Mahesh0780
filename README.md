@@ -1,14 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
-    type=slice&
+    type=waving&
     color=auto&
     height=150&
     section=header&
-    text=Software%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Lifelong%20Learner&
+    text=Hi%20there!%20I%27m%20Mahesh%20👋&
     fontSize=36&
     fontColor=ffffff
-  " alt="Hi, I'm Mahesh" />
+  " alt="Hi there! I'm Mahesh 👋" />
 </p>
+
+## ✨ Quote of the Day  
+...
 
 ## ✨ Quote of the Day  
 <p align="center">
