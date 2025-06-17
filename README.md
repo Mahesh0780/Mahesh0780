@@ -39,11 +39,8 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh0780&show_icons=true&theme=github_dark&hide_border=true" alt="Mahesh's GitHub Stats"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=mahesh0780&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+![](https://activity-graph-url)
+![](https://komarev.com/ghpvc/?username=mahesh0780)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-384-success?style=flat-square"/>
