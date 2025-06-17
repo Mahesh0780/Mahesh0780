@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=waving&
-    text=Hi%20I%27m%20Mahesh%20👋&
-    fontColor=ffffff&
-    fontSize=40&
-    color=gradient&
-    height=150
-  " alt="welcome"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&text=Hello%20🌟%20I%27m%20Mahesh&fontSize=48" alt="header"/>
+</p>
+
+## ✨ Quote of the Day  
+<p align="center">
+  ![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=light&category=inspirational)
 </p>
 
 <h3 align="center">Software Developer | Java Enthusiast | Lifelong Learner</h3>
